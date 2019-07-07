@@ -11,8 +11,8 @@
     <properties>
         <java.version>8</java.version>
         <scala.version>2.12</scala.version>
-        <akka.version>2.5.23</akka.version>
-        <akka.management.version>1.0.0</akka.management.version>
+        <akka.version>2.6.0-M4</akka.version>
+        <akka.management.version>1.0.1</akka.management.version>
         <fst.version>2.56</fst.version>
     </properties>
 
